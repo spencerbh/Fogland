@@ -81,7 +81,7 @@
 
    MODEL LAYER BOTTOM EL. =  -43.0000     FOR LAYER   1
 
-   MODEL LAYER BOTTOM EL. =  -120.000     FOR LAYER   2
+   MODEL LAYER BOTTOM EL. =  -200.000     FOR LAYER   2
 
 
  STRESS PERIOD     LENGTH       TIME STEPS     MULTIPLIER FOR DELT    SS FLAG
@@ -8585,61 +8585,85 @@
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   44
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   45
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   46
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   47
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   48
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   49
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   50
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   51
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   52
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   53
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   54
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   55
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
+ SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
@@ -8653,7 +8677,6 @@
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   57
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
- HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
@@ -8676,7 +8699,6 @@
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   60
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
- HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
@@ -8684,14 +8706,12 @@
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
  HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
- HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   62
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
- HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
@@ -8706,32 +8726,33 @@
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   64
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   65
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
- HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   66
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   67
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
- HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
 
  NO OUTPUT CONTROL FOR STRESS PERIOD    1   TIME STEP   68
  SOLVING FOR ZETA FOR LAYER     1 ZONE     2
  SOLVING FOR ZETA FOR LAYER     2 ZONE     2
+ HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  HNEW FOR CURRENT INNER ITERATION IS AN EXACT SOLUTION.
  
  SOLVING FOR HEAD 
@@ -9540,27 +9561,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    17802780.0000            BOUNDARIES =        1221.8750
+             BOUNDARIES =    17799638.0000            BOUNDARIES =        1221.8750
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     1510645.6250           ZONE CHANGE =          49.8913
-       ZONE CHG TIP/TOE =     2108810.0000      ZONE CHG TIP/TOE =         268.0675
+            ZONE CHANGE =     1574735.7500           ZONE CHANGE =          49.2280
+       ZONE CHG TIP/TOE =     2085146.8750      ZONE CHG TIP/TOE =         267.9302
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =    21422236.0000              TOTAL IN =        1539.8339
+               TOTAL IN =    21459520.0000              TOTAL IN =        1539.0332
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =     7503905.0000            BOUNDARIES =         447.4402
+             BOUNDARIES =     7452114.0000            BOUNDARIES =         423.1417
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    11914756.0000           ZONE CHANGE =         571.1601
-       ZONE CHG TIP/TOE =     1201770.8750      ZONE CHG TIP/TOE =         132.0878
-            ZONE MIXING =           6.5817           ZONE MIXING =           0.0000
+            ZONE CHANGE =    11863397.0000           ZONE CHANGE =         560.7061
+       ZONE CHG TIP/TOE =     1184591.8750      ZONE CHG TIP/TOE =         159.4957
+            ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    20620436.0000             TOTAL OUT =        1150.6880
+              TOTAL OUT =    20500104.0000             TOTAL OUT =        1143.3434
 
-               IN - OUT =      801800.0000              IN - OUT =         389.1459
+               IN - OUT =      959416.0000              IN - OUT =         395.6898
 
-    PERCENT DISCREPANCY =           3.81     PERCENT DISCREPANCY =          28.93
+    PERCENT DISCREPANCY =           4.57     PERCENT DISCREPANCY =          29.50
 
 
 
@@ -9574,27 +9595,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =       76200.2812            BOUNDARIES =           1.8750
+             BOUNDARIES =       79350.5625            BOUNDARIES =           1.8750
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    10433106.0000           ZONE CHANGE =         370.7260
-       ZONE CHG TIP/TOE =     4830621.0000      ZONE CHG TIP/TOE =         317.0124
-            ZONE MIXING =           6.5817           ZONE MIXING =           0.0000
+            ZONE CHANGE =    10400968.0000           ZONE CHANGE =         362.4897
+       ZONE CHG TIP/TOE =     4793961.0000      ZONE CHG TIP/TOE =         346.1919
+            ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =    15339934.0000              TOTAL IN =         689.6133
+               TOTAL IN =    15274280.0000              TOTAL IN =         710.5565
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    10375093.0000            BOUNDARIES =         776.3103
+             BOUNDARIES =    10426874.0000            BOUNDARIES =         800.6085
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     5139497.0000           ZONE CHANGE =         234.8159
-       ZONE CHG TIP/TOE =      627154.1250      ZONE CHG TIP/TOE =          67.6334
+            ZONE CHANGE =     5184107.0000           ZONE CHANGE =         235.9242
+       ZONE CHG TIP/TOE =      622720.5000      ZONE CHG TIP/TOE =          69.7138
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    16141744.0000             TOTAL OUT =        1078.7596
+              TOTAL OUT =    16233702.0000             TOTAL OUT =        1106.2466
 
-               IN - OUT =     -801810.0000              IN - OUT =        -389.1463
+               IN - OUT =     -959422.0000              IN - OUT =        -395.6901
 
-    PERCENT DISCREPANCY =          -5.09     PERCENT DISCREPANCY =         -44.01
+    PERCENT DISCREPANCY =          -6.09     PERCENT DISCREPANCY =         -43.56
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  200, STRESS PERIOD    1
@@ -9620,12 +9641,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    17878986.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    17878986.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    17878986.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    17878986.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -10856,27 +10877,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    35665924.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    35662992.0000            BOUNDARIES =        1222.5000
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     2008301.3750           ZONE CHANGE =          43.4895
-       ZONE CHG TIP/TOE =     6025833.5000      ZONE CHG TIP/TOE =         235.0627
+            ZONE CHANGE =     2062930.6250           ZONE CHANGE =          30.5176
+       ZONE CHG TIP/TOE =     5914306.0000      ZONE CHG TIP/TOE =         253.3748
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =    43700056.0000              TOTAL IN =        1501.6772
+               TOTAL IN =    43640232.0000              TOTAL IN =        1506.3923
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    15459539.0000            BOUNDARIES =         591.9955
+             BOUNDARIES =    15396092.0000            BOUNDARIES =         581.3453
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    19834164.0000           ZONE CHANGE =         494.3459
-       ZONE CHG TIP/TOE =     2255126.2500      ZONE CHG TIP/TOE =          53.5118
-            ZONE MIXING =         851.4345           ZONE MIXING =           0.5009
+            ZONE CHANGE =    19602956.0000           ZONE CHANGE =         510.6568
+       ZONE CHG TIP/TOE =     2220332.5000      ZONE CHG TIP/TOE =          40.4901
+            ZONE MIXING =         166.3262           ZONE MIXING =           0.1987
 
-              TOTAL OUT =    37549684.0000             TOTAL OUT =        1140.3542
+              TOTAL OUT =    37219548.0000             TOTAL OUT =        1132.6909
 
-               IN - OUT =     6150372.0000              IN - OUT =         361.3230
+               IN - OUT =     6420684.0000              IN - OUT =         373.7014
 
-    PERCENT DISCREPANCY =          15.14     PERCENT DISCREPANCY =          27.35
+    PERCENT DISCREPANCY =          15.88     PERCENT DISCREPANCY =          28.32
 
 
 
@@ -10890,27 +10911,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =       92088.6562            BOUNDARIES =           0.6250
+             BOUNDARIES =       95056.3125            BOUNDARIES =           1.2500
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    14926776.0000           ZONE CHANGE =         274.8055
-       ZONE CHG TIP/TOE =     8678430.0000      ZONE CHG TIP/TOE =         214.3266
-            ZONE MIXING =         851.4345           ZONE MIXING =           0.5009
+            ZONE CHANGE =    14782277.0000           ZONE CHANGE =         268.0441
+       ZONE CHG TIP/TOE =     8614134.0000      ZONE CHG TIP/TOE =         212.7968
+            ZONE MIXING =         166.3262           ZONE MIXING =           0.1987
 
-               TOTAL IN =    23698148.0000              TOTAL IN =         490.2579
+               TOTAL IN =    23491634.0000              TOTAL IN =         482.2897
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    20298462.0000            BOUNDARIES =         631.7549
+             BOUNDARIES =    20361894.0000            BOUNDARIES =         642.4048
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     8431611.0000           ZONE CHANGE =         204.3043
-       ZONE CHG TIP/TOE =     1118431.1250      ZONE CHG TIP/TOE =          15.5223
+            ZONE CHANGE =     8456732.0000           ZONE CHANGE =         202.8243
+       ZONE CHG TIP/TOE =     1093625.5000      ZONE CHG TIP/TOE =          10.7621
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    29848504.0000             TOTAL OUT =         851.5815
+              TOTAL OUT =    29912252.0000             TOTAL OUT =         855.9913
 
-               IN - OUT =    -6150356.0000              IN - OUT =        -361.3236
+               IN - OUT =    -6420618.0000              IN - OUT =        -373.7016
 
-    PERCENT DISCREPANCY =         -22.97     PERCENT DISCREPANCY =         -53.85
+    PERCENT DISCREPANCY =         -24.05     PERCENT DISCREPANCY =         -55.85
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  400, STRESS PERIOD    1
@@ -10936,12 +10957,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    35757836.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    35757836.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    35757836.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    35757836.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -12172,27 +12193,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    53535524.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    53530304.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     2585688.2500           ZONE CHANGE =          41.3700
-       ZONE CHG TIP/TOE =     9580098.0000      ZONE CHG TIP/TOE =         220.4937
+            ZONE CHANGE =     2650094.7500           ZONE CHANGE =          48.3951
+       ZONE CHG TIP/TOE =     9425932.0000      ZONE CHG TIP/TOE =         232.4337
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =    65701312.0000              TOTAL IN =        1484.9886
+               TOTAL IN =    65606332.0000              TOTAL IN =        1503.9537
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    24745632.0000            BOUNDARIES =         663.1319
+             BOUNDARIES =    24767098.0000            BOUNDARIES =         719.9427
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    26994690.0000           ZONE CHANGE =         455.5101
-       ZONE CHG TIP/TOE =     3045674.5000      ZONE CHG TIP/TOE =          57.1381
-            ZONE MIXING =       48385.6523           ZONE MIXING =           6.9471
+            ZONE CHANGE =    26760416.0000           ZONE CHANGE =         471.4344
+       ZONE CHG TIP/TOE =     3029016.7500      ZONE CHG TIP/TOE =          64.3199
+            ZONE MIXING =       12742.2744           ZONE MIXING =           1.4342
 
-              TOTAL OUT =    54834380.0000             TOTAL OUT =        1182.7271
+              TOTAL OUT =    54569272.0000             TOTAL OUT =        1257.1312
 
-               IN - OUT =    10866932.0000              IN - OUT =         302.2616
+               IN - OUT =    11037060.0000              IN - OUT =         246.8225
 
-    PERCENT DISCREPANCY =          18.03     PERCENT DISCREPANCY =          22.66
+    PERCENT DISCREPANCY =          18.37     PERCENT DISCREPANCY =          17.88
 
 
 
@@ -12206,27 +12227,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      101219.9062            BOUNDARIES =           0.6250
+             BOUNDARIES =      106561.6875            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    18800906.0000           ZONE CHANGE =         254.7993
-       ZONE CHG TIP/TOE =    11818099.0000      ZONE CHG TIP/TOE =         201.8490
-            ZONE MIXING =       48385.6523           ZONE MIXING =           6.9471
+            ZONE CHANGE =    18661314.0000           ZONE CHANGE =         262.5064
+       ZONE CHG TIP/TOE =    11722863.0000      ZONE CHG TIP/TOE =         215.1111
+            ZONE MIXING =       12742.2744           ZONE MIXING =           1.4342
 
-               TOTAL IN =    30768610.0000              TOTAL IN =         464.2204
+               TOTAL IN =    30503482.0000              TOTAL IN =         479.6767
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    28891364.0000            BOUNDARIES =         560.6186
+             BOUNDARIES =    28869868.0000            BOUNDARIES =         503.8074
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    11358117.0000           ZONE CHANGE =         186.0809
-       ZONE CHG TIP/TOE =     1386315.2500      ZONE CHG TIP/TOE =          19.7829
+            ZONE CHANGE =    11343932.0000           ZONE CHANGE =         199.1863
+       ZONE CHG TIP/TOE =     1326817.3750      ZONE CHG TIP/TOE =          23.5057
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    41635796.0000             TOTAL OUT =         766.4823
+              TOTAL OUT =    41540616.0000             TOTAL OUT =         726.4995
 
-               IN - OUT =   -10867186.0000              IN - OUT =        -302.2619
+               IN - OUT =   -11037134.0000              IN - OUT =        -246.8227
 
-    PERCENT DISCREPANCY =         -30.02     PERCENT DISCREPANCY =         -49.12
+    PERCENT DISCREPANCY =         -30.64     PERCENT DISCREPANCY =         -40.93
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  600, STRESS PERIOD    1
@@ -12252,12 +12273,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    53637036.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    53637036.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    53637036.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    53637036.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -13488,27 +13509,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    71405320.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    71400096.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     3295231.5000           ZONE CHANGE =          53.8677
-       ZONE CHG TIP/TOE =    12886960.0000      ZONE CHG TIP/TOE =         213.9782
+            ZONE CHANGE =     3314648.2500           ZONE CHANGE =          41.0541
+       ZONE CHG TIP/TOE =    12660276.0000      ZONE CHG TIP/TOE =         217.5861
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =    87587512.0000              TOTAL IN =        1490.9708
+               TOTAL IN =    87375024.0000              TOTAL IN =        1481.7653
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    35601920.0000            BOUNDARIES =         782.4265
+             BOUNDARIES =    35203008.0000            BOUNDARIES =         772.0097
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    33532416.0000           ZONE CHANGE =         423.2083
-       ZONE CHG TIP/TOE =     3963513.0000      ZONE CHG TIP/TOE =          62.9713
-            ZONE MIXING =      170663.6406           ZONE MIXING =          12.0777
+            ZONE CHANGE =    33500358.0000           ZONE CHANGE =         449.8488
+       ZONE CHG TIP/TOE =     3898877.0000      ZONE CHG TIP/TOE =          58.1720
+            ZONE MIXING =       41927.9688           ZONE MIXING =           1.6527
 
-              TOTAL OUT =    73268512.0000             TOTAL OUT =        1280.6838
+              TOTAL OUT =    72644176.0000             TOTAL OUT =        1281.6831
 
-               IN - OUT =    14319000.0000              IN - OUT =         210.2870
+               IN - OUT =    14730848.0000              IN - OUT =         200.0822
 
-    PERCENT DISCREPANCY =          17.80     PERCENT DISCREPANCY =          15.17
+    PERCENT DISCREPANCY =          18.41     PERCENT DISCREPANCY =          14.48
 
 
 
@@ -13522,27 +13543,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      110351.1562            BOUNDARIES =           0.6250
+             BOUNDARIES =      115692.9375            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    22378342.0000           ZONE CHANGE =         234.1540
-       ZONE CHG TIP/TOE =    14643766.0000      ZONE CHG TIP/TOE =         182.0627
-            ZONE MIXING =      170663.6406           ZONE MIXING =          12.0777
+            ZONE CHANGE =    22470272.0000           ZONE CHANGE =         256.6218
+       ZONE CHG TIP/TOE =    14664356.0000      ZONE CHG TIP/TOE =         200.3004
+            ZONE MIXING =       41927.9688           ZONE MIXING =           1.6527
 
-               TOTAL IN =    37303124.0000              TOTAL IN =         428.9194
+               TOTAL IN =    37292248.0000              TOTAL IN =         459.1998
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    35914092.0000            BOUNDARIES =         441.3240
+             BOUNDARIES =    36312956.0000            BOUNDARIES =         451.7404
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    13975483.0000           ZONE CHANGE =         172.9590
-       ZONE CHG TIP/TOE =     1732905.0000      ZONE CHG TIP/TOE =          24.9238
+            ZONE CHANGE =    14080121.0000           ZONE CHANGE =         183.1825
+       ZONE CHG TIP/TOE =     1630186.7500      ZONE CHG TIP/TOE =          24.3591
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    51622480.0000             TOTAL OUT =         639.2068
+              TOTAL OUT =    52023264.0000             TOTAL OUT =         659.2820
 
-               IN - OUT =   -14319356.0000              IN - OUT =        -210.2875
+               IN - OUT =   -14731016.0000              IN - OUT =        -200.0822
 
-    PERCENT DISCREPANCY =         -32.21     PERCENT DISCREPANCY =         -39.38
+    PERCENT DISCREPANCY =         -32.99     PERCENT DISCREPANCY =         -35.78
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  800, STRESS PERIOD    1
@@ -13568,12 +13589,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    71516040.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    71516040.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    71516040.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    71516040.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -14804,27 +14825,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    89275720.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    89270496.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     4153503.0000           ZONE CHANGE =          62.9272
-       ZONE CHG TIP/TOE =    16068592.0000      ZONE CHG TIP/TOE =         205.9750
+            ZONE CHANGE =     3926731.7500           ZONE CHANGE =          42.8432
+       ZONE CHG TIP/TOE =    15792224.0000      ZONE CHG TIP/TOE =         216.0056
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =   109497816.0000              TOTAL IN =        1492.0271
+               TOTAL IN =   108989448.0000              TOTAL IN =        1481.9739
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    46893572.0000            BOUNDARIES =         795.2904
+             BOUNDARIES =    46146648.0000            BOUNDARIES =         767.0668
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    39716708.0000           ZONE CHANGE =         408.8056
-       ZONE CHG TIP/TOE =     4856690.0000      ZONE CHG TIP/TOE =          56.8498
-            ZONE MIXING =      437954.7500           ZONE MIXING =          25.6608
+            ZONE CHANGE =    40001688.0000           ZONE CHANGE =         444.0374
+       ZONE CHG TIP/TOE =     4694640.0000      ZONE CHG TIP/TOE =          52.5399
+            ZONE MIXING =       89526.1641           ZONE MIXING =           4.8908
 
-              TOTAL OUT =    91904920.0000             TOTAL OUT =        1286.6067
+              TOTAL OUT =    90932504.0000             TOTAL OUT =        1268.5350
 
-               IN - OUT =    17592896.0000              IN - OUT =         205.4204
+               IN - OUT =    18056944.0000              IN - OUT =         213.4388
 
-    PERCENT DISCREPANCY =          17.47     PERCENT DISCREPANCY =          14.79
+    PERCENT DISCREPANCY =          18.06     PERCENT DISCREPANCY =          15.52
 
 
 
@@ -14838,27 +14859,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      119482.4062            BOUNDARIES =           0.6250
+             BOUNDARIES =      124824.1875            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    25734556.0000           ZONE CHANGE =         226.5105
-       ZONE CHG TIP/TOE =    17251142.0000      ZONE CHG TIP/TOE =         172.5398
-            ZONE MIXING =      437954.7500           ZONE MIXING =          25.6608
+            ZONE CHANGE =    26167522.0000           ZONE CHANGE =         249.1548
+       ZONE CHG TIP/TOE =    17422916.0000      ZONE CHG TIP/TOE =         188.1530
+            ZONE MIXING =       89526.1641           ZONE MIXING =           4.8908
 
-               TOTAL IN =    43543136.0000              TOTAL IN =         425.3362
+               TOTAL IN =    43804792.0000              TOTAL IN =         442.8236
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    42501400.0000            BOUNDARIES =         428.4601
+             BOUNDARIES =    43248260.0000            BOUNDARIES =         456.6833
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    16547956.0000           ZONE CHANGE =         178.6172
-       ZONE CHG TIP/TOE =     2086492.5000      ZONE CHG TIP/TOE =          23.6799
+            ZONE CHANGE =    16654992.0000           ZONE CHANGE =         178.4563
+       ZONE CHG TIP/TOE =     1958087.8750      ZONE CHG TIP/TOE =          21.1229
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    61135848.0000             TOTAL OUT =         630.7571
+              TOTAL OUT =    61861340.0000             TOTAL OUT =         656.2626
 
-               IN - OUT =   -17592712.0000              IN - OUT =        -205.4210
+               IN - OUT =   -18056548.0000              IN - OUT =        -213.4390
 
-    PERCENT DISCREPANCY =         -33.61     PERCENT DISCREPANCY =         -38.90
+    PERCENT DISCREPANCY =         -34.18     PERCENT DISCREPANCY =         -38.84
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP 1000, STRESS PERIOD    1
@@ -14884,12 +14905,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    89394440.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    89394440.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    89394440.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    89394440.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -15295,27 +15316,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    91956040.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    91950816.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     4329025.5000           ZONE CHANGE =          77.4307
-       ZONE CHG TIP/TOE =    16552518.0000      ZONE CHG TIP/TOE =         218.1009
+            ZONE CHANGE =     4041135.0000           ZONE CHANGE =          55.1886
+       ZONE CHG TIP/TOE =    16276533.0000      ZONE CHG TIP/TOE =         223.2698
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =   112837584.0000              TOTAL IN =        1518.6565
+               TOTAL IN =   112268488.0000              TOTAL IN =        1501.5834
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    48609644.0000            BOUNDARIES =         801.0040
+             BOUNDARIES =    47803812.0000            BOUNDARIES =         785.6611
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    40625368.0000           ZONE CHANGE =         410.8950
-       ZONE CHG TIP/TOE =     5044223.0000      ZONE CHG TIP/TOE =          90.1398
-            ZONE MIXING =      498747.0938           ZONE MIXING =          28.0019
+            ZONE CHANGE =    40962356.0000           ZONE CHANGE =         440.4200
+       ZONE CHG TIP/TOE =     4861388.0000      ZONE CHG TIP/TOE =          77.8272
+            ZONE MIXING =       99735.6328           ZONE MIXING =           4.2675
 
-              TOTAL OUT =    94777976.0000             TOTAL OUT =        1330.0406
+              TOTAL OUT =    93727288.0000             TOTAL OUT =        1308.1757
 
-               IN - OUT =    18059608.0000              IN - OUT =         188.6158
+               IN - OUT =    18541200.0000              IN - OUT =         193.4077
 
-    PERCENT DISCREPANCY =          17.40     PERCENT DISCREPANCY =          13.24
+    PERCENT DISCREPANCY =          18.00     PERCENT DISCREPANCY =          13.77
 
 
 
@@ -15329,27 +15350,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      120852.0938            BOUNDARIES =           0.6250
+             BOUNDARIES =      126193.8750            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    26253884.0000           ZONE CHANGE =         236.2156
-       ZONE CHG TIP/TOE =    17665580.0000      ZONE CHG TIP/TOE =         194.9409
-            ZONE MIXING =      498747.0938           ZONE MIXING =          28.0019
+            ZONE CHANGE =    26731806.0000           ZONE CHANGE =         256.7774
+       ZONE CHG TIP/TOE =    17856506.0000      ZONE CHG TIP/TOE =         203.3349
+            ZONE MIXING =       99735.6328           ZONE MIXING =           4.2675
 
-               TOTAL IN =    44539064.0000              TOTAL IN =         459.7834
+               TOTAL IN =    44814240.0000              TOTAL IN =         465.0048
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    43467184.0000            BOUNDARIES =         422.7465
+             BOUNDARIES =    44272952.0000            BOUNDARIES =         438.0891
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    16950388.0000           ZONE CHANGE =         182.2318
-       ZONE CHG TIP/TOE =     2181082.5000      ZONE CHG TIP/TOE =          43.4215
+            ZONE CHANGE =    17036242.0000           ZONE CHANGE =         180.6963
+       ZONE CHG TIP/TOE =     2046002.5000      ZONE CHG TIP/TOE =          39.6273
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    62598656.0000             TOTAL OUT =         648.3998
+              TOTAL OUT =    63355196.0000             TOTAL OUT =         658.4127
 
-               IN - OUT =   -18059592.0000              IN - OUT =        -188.6164
+               IN - OUT =   -18540956.0000              IN - OUT =        -193.4079
 
-    PERCENT DISCREPANCY =         -33.71     PERCENT DISCREPANCY =         -34.04
+    PERCENT DISCREPANCY =         -34.28     PERCENT DISCREPANCY =         -34.43
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP   60, STRESS PERIOD    2
@@ -15375,12 +15396,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    92076200.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    92076200.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    92076200.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    92076200.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -15771,27 +15792,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    94636360.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    94631136.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     4506730.5000           ZONE CHANGE =          78.4061
-       ZONE CHG TIP/TOE =    17032708.0000      ZONE CHG TIP/TOE =         214.6892
+            ZONE CHANGE =     4155114.5000           ZONE CHANGE =          54.9022
+       ZONE CHG TIP/TOE =    16758327.0000      ZONE CHG TIP/TOE =         221.9523
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =   116175792.0000              TOTAL IN =        1516.2203
+               TOTAL IN =   115544576.0000              TOTAL IN =        1499.9795
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    50326060.0000            BOUNDARIES =         799.2848
+             BOUNDARIES =    49460920.0000            BOUNDARIES =         785.9194
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    41531528.0000           ZONE CHANGE =         406.8739
-       ZONE CHG TIP/TOE =     5226990.5000      ZONE CHG TIP/TOE =          80.2071
-            ZONE MIXING =      564340.6250           ZONE MIXING =          29.8573
+            ZONE CHANGE =    41918000.0000           ZONE CHANGE =         437.9764
+       ZONE CHG TIP/TOE =     5027125.0000      ZONE CHG TIP/TOE =          73.6996
+            ZONE MIXING =      110459.8984           ZONE MIXING =           4.8033
 
-              TOTAL OUT =    97648920.0000             TOTAL OUT =        1316.2231
+              TOTAL OUT =    96516504.0000             TOTAL OUT =        1302.3987
 
-               IN - OUT =    18526872.0000              IN - OUT =         199.9972
+               IN - OUT =    19028072.0000              IN - OUT =         197.5808
 
-    PERCENT DISCREPANCY =          17.33     PERCENT DISCREPANCY =          14.12
+    PERCENT DISCREPANCY =          17.95     PERCENT DISCREPANCY =          14.10
 
 
 
@@ -15805,27 +15826,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      122221.7812            BOUNDARIES =           0.6250
+             BOUNDARIES =      127563.5625            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    26772502.0000           ZONE CHANGE =         235.6093
-       ZONE CHG TIP/TOE =    18074626.0000      ZONE CHG TIP/TOE =         183.6614
-            ZONE MIXING =      564340.6250           ZONE MIXING =          29.8573
+            ZONE CHANGE =    27292820.0000           ZONE CHANGE =         255.6270
+       ZONE CHG TIP/TOE =    18285772.0000      ZONE CHG TIP/TOE =         197.0939
+            ZONE MIXING =      110459.8984           ZONE MIXING =           4.8033
 
-               TOTAL IN =    45533692.0000              TOTAL IN =         449.7530
+               TOTAL IN =    45816616.0000              TOTAL IN =         458.1492
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    44432612.0000            BOUNDARIES =         424.4657
+             BOUNDARIES =    45297692.0000            BOUNDARIES =         437.8307
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    17354364.0000           ZONE CHANGE =         181.8604
-       ZONE CHG TIP/TOE =     2273712.5000      ZONE CHG TIP/TOE =          43.4246
+            ZONE CHANGE =    17413740.0000           ZONE CHANGE =         178.2965
+       ZONE CHG TIP/TOE =     2133165.7500      ZONE CHG TIP/TOE =          39.6029
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    64060688.0000             TOTAL OUT =         649.7507
+              TOTAL OUT =    64844596.0000             TOTAL OUT =         655.7301
 
-               IN - OUT =   -18526996.0000              IN - OUT =        -199.9977
+               IN - OUT =   -19027980.0000              IN - OUT =        -197.5809
 
-    PERCENT DISCREPANCY =         -33.81     PERCENT DISCREPANCY =         -36.38
+    PERCENT DISCREPANCY =         -34.39     PERCENT DISCREPANCY =         -35.48
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  120, STRESS PERIOD    2
@@ -15851,12 +15872,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    94757960.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    94757960.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    94757960.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    94757960.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -16262,27 +16283,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    97316680.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    97311456.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     4689885.0000           ZONE CHANGE =          81.0119
-       ZONE CHG TIP/TOE =    17509688.0000      ZONE CHG TIP/TOE =         211.2817
+            ZONE CHANGE =     4267631.5000           ZONE CHANGE =          52.8257
+       ZONE CHG TIP/TOE =    17236828.0000      ZONE CHG TIP/TOE =         221.2435
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =   119516256.0000              TOTAL IN =        1515.4185
+               TOTAL IN =   118815920.0000              TOTAL IN =        1497.1941
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    52041824.0000            BOUNDARIES =         799.6851
+             BOUNDARIES =    51124036.0000            BOUNDARIES =         785.4309
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    42437204.0000           ZONE CHANGE =         406.8417
-       ZONE CHG TIP/TOE =     5404976.0000      ZONE CHG TIP/TOE =          76.4878
-            ZONE MIXING =      634794.8125           ZONE MIXING =          32.9236
+            ZONE CHANGE =    42868568.0000           ZONE CHANGE =         436.0370
+       ZONE CHG TIP/TOE =     5190473.5000      ZONE CHG TIP/TOE =          73.1762
+            ZONE MIXING =      121711.6641           ZONE MIXING =           5.0097
 
-              TOTAL OUT =   100518792.0000             TOTAL OUT =        1315.9381
+              TOTAL OUT =    99304792.0000             TOTAL OUT =        1299.6539
 
-               IN - OUT =    18997464.0000              IN - OUT =         199.4803
+               IN - OUT =    19511128.0000              IN - OUT =         197.5402
 
-    PERCENT DISCREPANCY =          17.27     PERCENT DISCREPANCY =          14.09
+    PERCENT DISCREPANCY =          17.89     PERCENT DISCREPANCY =          14.13
 
 
 
@@ -16296,27 +16317,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      123591.4688            BOUNDARIES =           0.6250
+             BOUNDARIES =      128933.2500            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    27293452.0000           ZONE CHANGE =         236.8330
-       ZONE CHG TIP/TOE =    18479558.0000      ZONE CHG TIP/TOE =         180.7707
-            ZONE MIXING =      634794.8125           ZONE MIXING =          32.9236
+            ZONE CHANGE =    27851716.0000           ZONE CHANGE =         255.2486
+       ZONE CHG TIP/TOE =    18710324.0000      ZONE CHG TIP/TOE =         197.5192
+            ZONE MIXING =      121711.6641           ZONE MIXING =           5.0097
 
-               TOTAL IN =    46531396.0000              TOTAL IN =         451.1523
+               TOTAL IN =    46812688.0000              TOTAL IN =         458.4025
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    45398700.0000            BOUNDARIES =         424.0654
+             BOUNDARIES =    46316428.0000            BOUNDARIES =         438.3192
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    17764458.0000           ZONE CHANGE =         185.2948
-       ZONE CHG TIP/TOE =     2365963.2500      ZONE CHG TIP/TOE =          41.2730
+            ZONE CHANGE =    17787470.0000           ZONE CHANGE =         177.1687
+       ZONE CHG TIP/TOE =     2220015.2500      ZONE CHG TIP/TOE =          40.4550
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    65529124.0000             TOTAL OUT =         650.6332
+              TOTAL OUT =    66323912.0000             TOTAL OUT =         655.9429
 
-               IN - OUT =   -18997728.0000              IN - OUT =        -199.4809
+               IN - OUT =   -19511224.0000              IN - OUT =        -197.5403
 
-    PERCENT DISCREPANCY =         -33.91     PERCENT DISCREPANCY =         -36.21
+    PERCENT DISCREPANCY =         -34.49     PERCENT DISCREPANCY =         -35.45
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP   60, STRESS PERIOD    3
@@ -16342,12 +16363,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =    97439720.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =    97439720.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =    97439720.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =    97439720.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -16738,27 +16759,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =    99997000.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =    99991776.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     4877354.0000           ZONE CHANGE =          82.8604
-       ZONE CHG TIP/TOE =    17983558.0000      ZONE CHG TIP/TOE =         204.8980
+            ZONE CHANGE =     4376425.0000           ZONE CHANGE =          51.8364
+       ZONE CHG TIP/TOE =    17712956.0000      ZONE CHG TIP/TOE =         221.5573
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =   122857912.0000              TOTAL IN =        1510.8833
+               TOTAL IN =   122081152.0000              TOTAL IN =        1496.5187
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    53758380.0000            BOUNDARIES =         799.4604
+             BOUNDARIES =    52788544.0000            BOUNDARIES =         784.0811
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    43341700.0000           ZONE CHANGE =         405.5271
-       ZONE CHG TIP/TOE =     5579196.0000      ZONE CHG TIP/TOE =          71.6362
-            ZONE MIXING =      710391.0000           ZONE MIXING =          35.9411
+            ZONE CHANGE =    43814772.0000           ZONE CHANGE =         433.2968
+       ZONE CHG TIP/TOE =     5349129.0000      ZONE CHG TIP/TOE =          73.0922
+            ZONE MIXING =      133843.9375           ZONE MIXING =           5.4909
 
-              TOTAL OUT =   103389672.0000             TOTAL OUT =        1312.5648
+              TOTAL OUT =   102086280.0000             TOTAL OUT =        1295.9612
 
-               IN - OUT =    19468240.0000              IN - OUT =         198.3185
+               IN - OUT =    19994872.0000              IN - OUT =         200.5575
 
-    PERCENT DISCREPANCY =          17.21     PERCENT DISCREPANCY =          14.05
+    PERCENT DISCREPANCY =          17.84     PERCENT DISCREPANCY =          14.36
 
 
 
@@ -16772,27 +16793,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      124961.1562            BOUNDARIES =           0.6250
+             BOUNDARIES =      130302.9375            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    27815492.0000           ZONE CHANGE =         236.3465
-       ZONE CHG TIP/TOE =    18880456.0000      ZONE CHG TIP/TOE =         175.5478
-            ZONE MIXING =      710391.0000           ZONE MIXING =          35.9411
+            ZONE CHANGE =    28408116.0000           ZONE CHANGE =         253.9058
+       ZONE CHG TIP/TOE =    19129938.0000      ZONE CHG TIP/TOE =         196.0505
+            ZONE MIXING =      133843.9375           ZONE MIXING =           5.4909
 
-               TOTAL IN =    47531304.0000              TOTAL IN =         448.4604
+               TOTAL IN =    47802200.0000              TOTAL IN =         456.0722
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    46363980.0000            BOUNDARIES =         424.2900
+             BOUNDARIES =    47333772.0000            BOUNDARIES =         439.6691
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    18178610.0000           ZONE CHANGE =         186.7719
-       ZONE CHG TIP/TOE =     2457383.7500      ZONE CHG TIP/TOE =          35.7174
+            ZONE CHANGE =    18157214.0000           ZONE CHANGE =         174.7947
+       ZONE CHG TIP/TOE =     2306336.7500      ZONE CHG TIP/TOE =          42.1662
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    66999976.0000             TOTAL OUT =         646.7794
+              TOTAL OUT =    67797320.0000             TOTAL OUT =         656.6299
 
-               IN - OUT =   -19468672.0000              IN - OUT =        -198.3190
+               IN - OUT =   -19995120.0000              IN - OUT =        -200.5577
 
-    PERCENT DISCREPANCY =         -34.00     PERCENT DISCREPANCY =         -36.21
+    PERCENT DISCREPANCY =         -34.59     PERCENT DISCREPANCY =         -36.05
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  120, STRESS PERIOD    3
@@ -16818,12 +16839,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =   100121480.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =   100121480.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =   100121480.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =   100121480.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -17214,27 +17235,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =   102677320.0000            BOUNDARIES =        1223.1250
+             BOUNDARIES =   102672096.0000            BOUNDARIES =        1223.1250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =     5069081.0000           ZONE CHANGE =          82.3699
-       ZONE CHG TIP/TOE =    18455128.0000      ZONE CHG TIP/TOE =         212.1369
+            ZONE CHANGE =     4483126.5000           ZONE CHANGE =          49.7323
+       ZONE CHG TIP/TOE =    18186278.0000      ZONE CHG TIP/TOE =         217.0619
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-               TOTAL IN =   126201528.0000              TOTAL IN =        1517.6318
+               TOTAL IN =   125341504.0000              TOTAL IN =        1489.9192
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    55475384.0000            BOUNDARIES =         800.9383
+             BOUNDARIES =    54453464.0000            BOUNDARIES =         784.0703
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    44244088.0000           ZONE CHANGE =         404.5191
-       ZONE CHG TIP/TOE =     5751995.0000      ZONE CHG TIP/TOE =          77.5894
-            ZONE MIXING =      791334.6250           ZONE MIXING =          37.5511
+            ZONE CHANGE =    44756200.0000           ZONE CHANGE =         429.1506
+       ZONE CHG TIP/TOE =     5505624.0000      ZONE CHG TIP/TOE =          70.2395
+            ZONE MIXING =      146770.8750           ZONE MIXING =           5.8404
 
-              TOTAL OUT =   106262800.0000             TOTAL OUT =        1320.5979
+              TOTAL OUT =   104862056.0000             TOTAL OUT =        1289.3007
 
-               IN - OUT =    19938728.0000              IN - OUT =         197.0339
+               IN - OUT =    20479448.0000              IN - OUT =         200.6185
 
-    PERCENT DISCREPANCY =          17.15     PERCENT DISCREPANCY =          13.88
+    PERCENT DISCREPANCY =          17.79     PERCENT DISCREPANCY =          14.44
 
 
 
@@ -17248,27 +17269,27 @@
 
               IN:                                      IN:
               ---                                      ---
-             BOUNDARIES =      126330.8438            BOUNDARIES =           0.6250
+             BOUNDARIES =      131672.6250            BOUNDARIES =           0.6250
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    28337220.0000           ZONE CHANGE =         234.5286
-       ZONE CHG TIP/TOE =    19279196.0000      ZONE CHG TIP/TOE =         182.3915
-            ZONE MIXING =      791334.6250           ZONE MIXING =          37.5511
+            ZONE CHANGE =    28961484.0000           ZONE CHANGE =         251.2637
+       ZONE CHG TIP/TOE =    19546260.0000      ZONE CHG TIP/TOE =         191.7719
+            ZONE MIXING =      146770.8750           ZONE MIXING =           5.8404
 
-               TOTAL IN =    48534080.0000              TOTAL IN =         455.0962
+               TOTAL IN =    48786188.0000              TOTAL IN =         449.5010
 
              OUT:                                     OUT:
              ----                                     ----
-             BOUNDARIES =    47328832.0000            BOUNDARIES =         422.8122
+             BOUNDARIES =    48350712.0000            BOUNDARIES =         439.6799
           CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
-            ZONE CHANGE =    18596268.0000           ZONE CHANGE =         187.1720
-       ZONE CHG TIP/TOE =     2548285.2500      ZONE CHG TIP/TOE =          42.1464
+            ZONE CHANGE =    18523744.0000           ZONE CHANGE =         171.2647
+       ZONE CHG TIP/TOE =     2391589.2500      ZONE CHG TIP/TOE =          39.1751
             ZONE MIXING =           0.0000           ZONE MIXING =           0.0000
 
-              TOTAL OUT =    68473384.0000             TOTAL OUT =         652.1306
+              TOTAL OUT =    69266048.0000             TOTAL OUT =         650.1197
 
-               IN - OUT =   -19939304.0000              IN - OUT =        -197.0344
+               IN - OUT =   -20479860.0000              IN - OUT =        -200.6187
 
-    PERCENT DISCREPANCY =         -34.08     PERCENT DISCREPANCY =         -35.59
+    PERCENT DISCREPANCY =         -34.70     PERCENT DISCREPANCY =         -36.49
 
 
  HEAD WILL BE SAVED ON UNIT   51 AT END OF TIME STEP  180, STRESS PERIOD    3
@@ -17294,12 +17315,12 @@
              STORAGE =           0.0000               STORAGE =           0.0000
        CONSTANT HEAD =           0.0000         CONSTANT HEAD =           0.0000
           SWIADDTOCH =           0.0000            SWIADDTOCH =           0.0000
-     HEAD DEP BOUNDS =   102803240.0000       HEAD DEP BOUNDS =        1223.7505
+     HEAD DEP BOUNDS =   102803240.0000       HEAD DEP BOUNDS =        1223.7501
             RECHARGE =           0.0000              RECHARGE =           0.0000
 
-           TOTAL OUT =   102803240.0000             TOTAL OUT =        1223.7505
+           TOTAL OUT =   102803240.0000             TOTAL OUT =        1223.7501
 
-            IN - OUT =           0.0000              IN - OUT =      -4.8828E-04
+            IN - OUT =           0.0000              IN - OUT =      -1.2207E-04
 
  PERCENT DISCREPANCY =           0.00     PERCENT DISCREPANCY =          -0.00
 
@@ -17316,6 +17337,6 @@
          TOTAL TIME 7.25822E+09 1.20970E+08 2.01617E+06  84007.      230.00    
 1
 
- Run end date and time (yyyy/mm/dd hh:mm:ss): 2017/12/07 22:25:21
- Elapsed run time:  1 Minutes, 27.966 Seconds
+ Run end date and time (yyyy/mm/dd hh:mm:ss): 2017/12/08  0:11:13
+ Elapsed run time:  1 Minutes, 32.229 Seconds
 
